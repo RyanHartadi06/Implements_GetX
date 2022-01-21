@@ -1,4 +1,4 @@
-# latihan_slicing
+# Flutter GETX 
 
 A new Flutter project.
 
